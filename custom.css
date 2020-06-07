@@ -1,0 +1,20 @@
+div.title{
+    background-color: #ff00dd;
+    color:#008000
+}
+
+div.text{
+    color: #fc0000
+}
+
+div.list{
+    color: #1916da
+}
+
+span.palavraroxa{
+    color: #6f00ff
+}
+
+div.list{
+    padding-top: 75px;
+}

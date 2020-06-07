@@ -1,0 +1,68 @@
+body{
+    background-image: url('mustanggt500.png');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+a.nav-link{
+    text-align: right;
+    font-weight: 600;
+    color: white;
+}
+
+div.container-fluid{
+    text-outline: white;
+}
+
+button.button.order {
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 30px;
+    color: white;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+div.center-top{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+
+div.center-middle{
+    height: 370px;
+}
+
+i.fas.fa-tachometer-alt{
+    font-size: 35px;
+    text-align: center;
+    color: white;
+
+}
+
+p{
+    color: white;
+}
+
+span.number{
+    font-size: xx-large;
+    color: white;
+    text-align: end;
+    padding-left: 10px;
+}
+
+span.engine.number{
+    font-size: 26px;
+    color: white;
+    text-align: end;
+}
+
+div.center-bottom{
+    text-align: center;
+    color: dimgray;
+}

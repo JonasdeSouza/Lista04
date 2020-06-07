@@ -1,0 +1,92 @@
+body{
+    background-image: url('mustanggt.png');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+div.logo.col-lg-2.col-sm-12{
+    text-align: left;
+}
+
+button.button.order {
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 30px;
+    color: white;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+div.center-top{
+    text-align: center;
+    color: dimgray;
+}
+
+div.center-middle{
+    height: 400px;
+}
+
+i.fas.fa-tachometer-alt{
+    font-size: 35px;
+    text-align: center;
+    color: white;
+
+}
+
+p{
+    color: white;
+}
+
+span.number{
+    font-size: xx-large;
+    color: white;
+    text-align: end;
+    padding-left: 10px;
+}
+
+div.center-bottom{
+    text-align: center;
+    color: dimgray;
+}
+
+div.col-lg-8{
+    text-align: center;
+}
+
+div.col-lg-2{
+    text-align: right;
+}
+
+a.nav-link{
+    text-align: right;
+    font-weight: 600;
+}
+
+nav.navbar{
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: right;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}

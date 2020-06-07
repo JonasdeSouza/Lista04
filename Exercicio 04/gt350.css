@@ -1,0 +1,57 @@
+body{
+    background-image: url('mustanggt350.png');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+a.nav-link{
+    text-align: right;
+    font-weight: 600;
+}
+
+button.button.order {
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 30px;
+    color: white;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+div.center-top{
+    text-align: center;
+    color: dimgray;
+    padding-top: 50px;
+}
+
+div.center-middle{
+    height: 350px;
+}
+
+i.fas.fa-tachometer-alt{
+    font-size: 35px;
+    text-align: center;
+    color: white;
+
+}
+
+p{
+    color: white;
+}
+
+span.number{
+    font-size: xx-large;
+    color: white;
+    text-align: end;
+    padding-left: 10px;
+}
+
+div.center-bottom{
+    text-align: center;
+    color: dimgray;
+}
